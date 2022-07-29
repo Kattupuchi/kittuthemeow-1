@@ -5,6 +5,10 @@
   <img src="https://telegra.ph/file/be18f38977bec86b46f67.mp4">
 </p>
 
+
+https://user-images.githubusercontent.com/89501967/181693513-19f35d17-f4c3-4654-9bd2-7accfd1c0a7c.mp4
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittuthemeow&label=Profile%20views&color=0e75b6&style=flat" alt="kittuthemeow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittuthemeow" alt="kittuthemeow" /></a> </p>
