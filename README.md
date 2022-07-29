@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm kittuthemeow</h1>
 <h3 align="center">IAM TELEGRAM BOT MAKER AND ETHIL HACKER</h3>
 
-<p align="center">
-  <img src="https://telegra.ph/file/be18f38977bec86b46f67.mp4">
-</p>
 
 
-https://user-images.githubusercontent.com/89501967/181693513-19f35d17-f4c3-4654-9bd2-7accfd1c0a7c.mp4
+https://user-images.githubusercontent.com/89501967/181693732-c4efc822-656d-4371-a168-8b617f4643c6.mp4
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittuthemeow&label=Profile%20views&color=0e75b6&style=flat" alt="kittuthemeow" /> </p>
