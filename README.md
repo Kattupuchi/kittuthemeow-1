@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittuthemeow&show_icons=true&locale=en" alt="kittuthemeow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittuthemeow&" alt="kittuthemeow" /></p>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
+</details>
+
