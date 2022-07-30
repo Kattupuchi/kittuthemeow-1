@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm kittuthemeow</h1>
 <h3 align="center">IAM TELEGRAM BOT MAKER AND Ethical HACKER</h3>
 
-
-
-https://user-images.githubusercontent.com/89501967/181693732-c4efc822-656d-4371-a168-8b617f4643c6.mp4
-
-
+<p align="centre"> <img src="https://telegra.ph/file/0b731e6e848da627a95ac.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittuthemeow&label=Profile%20views&color=0e75b6&style=flat" alt="kittuthemeow" /> </p>
 
