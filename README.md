@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, ## <img src="https://readme-typing-svg.herokuapp.com/?lines=KITTU&font=Bold&width=650&height=120&color=000888&vcentre=true&size=60%22">
-/h1>
+<h1 align="center">Hi 👋, kittuthemeow
 <h3 align="center">IAM TELEGRAM BOT MAKER AND Ethical HACKER</h3>
 
 <p align="centre"> <img src="https://telegra.ph/file/0b731e6e848da627a95ac.jpg"
