@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, kittuthemeow
+</p>
+<a href="https://github.com/kittuthemeow"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;KITTU%20+THE%20MEOW;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=000888&vCenter=true&size=45%22"></a> </p>
+
 <h3 align="center">IAM TELEGRAM BOT MAKER AND Ethical HACKER</h3>
 
 <p align="centre"> <img src="https://telegra.ph/file/0b731e6e848da627a95ac.jpg"
 
-## <img src="https://readme-typing-svg.herokuapp.com/?lines=SOUL%20+HACKER%20KITTU&font=Bold&width=650&height=120&color=000888&vcentre=true&size=60%22">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittuthemeow&label=Profile%20views&color=0e75b6&style=flat" alt="kittuthemeow" /> </p>
 
